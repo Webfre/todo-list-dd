@@ -1,7 +1,7 @@
 # Список задач с перетаскиванием
 
 <p align="center">
-  <img src="https://i.gifer.com/3g2b.gif" height="330" width="600" alt="webfre" />
+  <img src="https://github.com/Webfre/todo-list-dd/blob/main/src/assets/3g2b.gif" height="330" width="600" alt="webfre" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webfre&label=Profile%20views&color=0e75b6&style=flat" alt="webfre" /> </p>
