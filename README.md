@@ -8,7 +8,7 @@
 
 ## Предварительный просмотр
 
-<a href="https://webfre.github.io/profile/#главная" target="_blank">Посмотреть 👁</a>
+<a href="https://webfre.github.io/todo-list-dd/" target="_blank">Посмотреть 👁</a>
 
 ## Технологии
 
